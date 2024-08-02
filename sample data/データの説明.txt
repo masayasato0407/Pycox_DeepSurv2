@@ -1,0 +1,15 @@
+データの説明
+訓練用のtrain.csvと精度評価用のtest.csv
+
+列の説明
+1-12列目
+説明変数
+con: continuous variables (連続変数)が9種類
+dis: discrete variable (離散変数)が3種類
+
+13-14列目が予測対象
+event: イベント (生死など)の有無 (有=1、打ち切り [イベント無]=0)
+time: event発生または打ち切りまでの時間 (year)
+
+
+
