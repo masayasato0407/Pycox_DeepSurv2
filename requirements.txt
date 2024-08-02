@@ -1,6 +1,5 @@
 h5py==3.8.0
 matplotlib==3.7.1
-numpy==1.24.3
 pandas==1.5.3
 pycox==0.2.3
 scikit-learn==1.2.2
